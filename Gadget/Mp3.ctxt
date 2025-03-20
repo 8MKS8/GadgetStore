@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Mp3
+comment1.params=aModel\ aPrice\ aWeight\ aSize\ aMemory
+comment1.target=Mp3(java.lang.String,\ double,\ int,\ java.lang.String,\ float)
+comment2.params=
+comment2.target=void\ displayMp3Atributes()
+numComments=3
